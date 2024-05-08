@@ -1,0 +1,11 @@
+{
+  "name": "com.merttaylandurdu.UnityUsefulUtils",
+  "version": "1.0.0",
+  "displayName": "Unity Utils",
+  "description": "Useful Utils",
+  "author": {
+    "name": "Mert Taylan Durdu",
+    "email": "merttaylandurdu@gmail.com",
+    "url": "https://github.com/merttaylandurdu"
+  }
+}
